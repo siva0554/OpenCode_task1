@@ -1,0 +1,33 @@
+1)Git is a tool that helps to keep track of changes to code. It's like a save point for our code and allows multiple people to work on the same project.
+
+where as , GitHub is a web-based platform that provides hosting for Git repositories. It adds features like bug tracking, project management, to make it easier for teams to collaborate and work together.
+
+So, Git is the tool, and GitHub is a place to use the tool.
+
+2)These are 5 git commands :
+
+git clone :This command downloads a copy of a Git repository from a remote location to our device.
+
+git init :This initializes a new Git repository in the current directory.
+
+git add : This adds changes in a file to the staging area so that they can be included in the next commit.
+
+git commit :This saves changes to the local Git repository, including all changes that have been added to the staging area.
+
+git push : This sends local changes to a remote repository on a service like GitHub so that other people can access and see the changes.
+
+3)To make a pull request :
+
+First, we had to find the project to contribute on github and later we had to fork
+ 
+it which will create a a copy in our device and we had to clone it and make changes to the 
+
+file as per our requirements and push the changes back to our forked repository on github.
+
+then we had to click on NEW PULL REQUEST button and CREATE PULL REQUEST in the original page.
+
+
+ 
+
+
+
